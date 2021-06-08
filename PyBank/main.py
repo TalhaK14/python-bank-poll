@@ -1,21 +1,21 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[44]:
+# In[1]:
 
 
 import os
 import csv
 
 
-# In[45]:
+# In[2]:
 
 
-bank_csv= os.path.join('..', 'Downloads', 'Homework_03-Python_Instructions_PyBank_Resources_budget_data.csv')
+bank_csv= os.path.join('budget_data.csv')
 bank_csv
 
 
-# In[69]:
+# In[3]:
 
 
 total_months = []
@@ -50,16 +50,3 @@ print(f"Total: ${sum(net_total)}")
 print(f"Average Change: {round(sum(monthly_change)/len(monthly_change),2)}")
 print(f"Greatest Increase in Profits: {total_months[max_month]} (${(str(max_value))})")
 print(f"Greatest Decrease in Profits: {total_months[min_month]} (${(str(min_value))})")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
