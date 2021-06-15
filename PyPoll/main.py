@@ -65,10 +65,3 @@ print(f"O'Tooley: {otooley_percent:.3f}% ({otooley_votes})")
 print(f"----------------------------")
 print(f"Winner: {key}")
 print(f"----------------------------")
-
-
-# In[ ]:
-
-
-
-
