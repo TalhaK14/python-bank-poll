@@ -1,12 +1,12 @@
 # Py Me Up, Charlie
 
 ## Background
-Both of these challenges encompass a real-world situation where your newfound Python scripting skills can come in handy. These challenges are far from easy so expect some hard work ahead!
+Both of these challenges encompass a real-world situation where Python scripting skills come in handy.
 
 ## PyBank
-you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
+Tasked with creating a Python script for analyzing the financial records of your company. Given a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
 
-* Your task is to create a Python script that analyzes the records to calculate each of the following:
+* Task is to create a Python script that analyzes the records to calculate each of the following:
 
 
   * The total number of months included in the dataset
@@ -25,9 +25,9 @@ you are tasked with creating a Python script for analyzing the financial records
 
 ## PyPoll
 
-you are tasked with helping a small, rural town modernize its vote counting process
+Tasked with helping a small, rural town modernize its vote counting process. Given a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate.
 
-* You will be give a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate. Your task is to create a Python script that analyzes the votes and calculates each of the following:
+* Task is to create a Python script that analyzes the votes and calculates each of the following:
 
   * The total number of votes cast
 
