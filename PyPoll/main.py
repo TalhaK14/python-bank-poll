@@ -8,14 +8,14 @@ import os
 import csv
 
 
-# In[3]:
+# In[2]:
 
 
-poll_csv= os.path.join('..', 'Downloads', 'Homework_03-Python_Instructions_PyPoll_Resources_election_data.csv')
+poll_csv= os.path.join('..', 'PyPoll', 'Resources', 'election_data.csv')
 poll_csv
 
 
-# In[4]:
+# In[3]:
 
 
 total_votes = 0 
